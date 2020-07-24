@@ -21,4 +21,4 @@ The apps in this repository meet these three requirements:
 - Windows 8.1+ (No Linux or Mac support in the pipeline currently)
 - x86 / x86_64
 
-*Created by AgentFlame, Elizabeth and contributors
+*Created by AgentFlame, Elizabeth and contributors*
